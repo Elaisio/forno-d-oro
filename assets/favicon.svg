@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Forno D'Oro">
+  <rect width="64" height="64" rx="16" fill="#b84635"/>
+  <path d="M14 36c3-15 14-23 28-22 5 .3 9 2 12 5-2 15-14 26-29 26-4 0-8-1-11-3 0-2 0-4 .2-6Z" fill="#f4d58d"/>
+  <path d="M18 36c5 3 14 3 26-1" fill="none" stroke="#65291f" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="29" cy="26" r="3" fill="#b84635"/><circle cx="40" cy="30" r="3" fill="#b84635"/><circle cx="25" cy="37" r="2.7" fill="#b84635"/>
+</svg>
